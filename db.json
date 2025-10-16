@@ -1,0 +1,246 @@
+{
+  "companies": [
+    {
+      "id": "e581dc4a-ec2d-4eab-8bdc-89b42739c13d",
+      "name": "TechCorp Solutions",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employee_count": 1250,
+      "founded_year": 2015,
+      "description": "Leading provider of cloud-based enterprise solutions and AI-powered analytics platforms.",
+      "website": "https://techcorp.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "4e4cd324-700b-4ade-968f-7a763fa36cf7",
+      "name": "HealthFirst Medical",
+      "industry": "Healthcare",
+      "location": "Boston, MA",
+      "employee_count": 850,
+      "founded_year": 2010,
+      "description": "Innovative healthcare technology company specializing in telemedicine and patient care systems.",
+      "website": "https://healthfirst.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "1ca28188-f419-471b-bc2e-9fbad5b2616d",
+      "name": "GreenEnergy Inc",
+      "industry": "Energy",
+      "location": "Austin, TX",
+      "employee_count": 620,
+      "founded_year": 2018,
+      "description": "Renewable energy company focused on solar and wind power solutions for residential and commercial clients.",
+      "website": "https://greenenergy.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "69dc83b0-bc2d-48d1-81fb-1ca89e9c7a4d",
+      "name": "FinanceHub",
+      "industry": "Finance",
+      "location": "New York, NY",
+      "employee_count": 2100,
+      "founded_year": 2008,
+      "description": "Digital banking platform providing comprehensive financial services and investment solutions.",
+      "website": "https://financehub.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "137c5697-332d-4d21-8b48-41b6f6277155",
+      "name": "EduLearn Technologies",
+      "industry": "Education",
+      "location": "Seattle, WA",
+      "employee_count": 450,
+      "founded_year": 2016,
+      "description": "EdTech company offering online learning platforms and educational content for K-12 and higher education.",
+      "website": "https://edulearn.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "3b2413ae-abba-4474-8805-5fe28fb42934",
+      "name": "FoodDelight Services",
+      "industry": "Food & Beverage",
+      "location": "Chicago, IL",
+      "employee_count": 3500,
+      "founded_year": 2012,
+      "description": "Food delivery and restaurant management platform connecting customers with local restaurants.",
+      "website": "https://fooddelight.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "82f0260b-532b-4525-aca1-591572d72a96",
+      "name": "AutoDrive Innovations",
+      "industry": "Automotive",
+      "location": "Detroit, MI",
+      "employee_count": 980,
+      "founded_year": 2017,
+      "description": "Automotive technology company developing autonomous driving systems and electric vehicle components.",
+      "website": "https://autodrive.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "524f29d0-19b8-455c-9dbc-647e1e77e3e4",
+      "name": "RetailMax Corp",
+      "industry": "Retail",
+      "location": "Los Angeles, CA",
+      "employee_count": 5200,
+      "founded_year": 2005,
+      "description": "Leading e-commerce platform with omnichannel retail solutions and supply chain management.",
+      "website": "https://retailmax.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "b542301d-31a2-4271-9596-ff64a5019f90",
+      "name": "CloudNet Systems",
+      "industry": "Technology",
+      "location": "San Jose, CA",
+      "employee_count": 780,
+      "founded_year": 2019,
+      "description": "Cloud infrastructure provider offering scalable hosting and serverless computing solutions.",
+      "website": "https://cloudnet.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "8ce234fb-3e57-4fb4-837f-2748ee205708",
+      "name": "BioMed Research",
+      "industry": "Healthcare",
+      "location": "San Diego, CA",
+      "employee_count": 420,
+      "founded_year": 2014,
+      "description": "Biotechnology company focused on drug discovery and development for rare diseases.",
+      "website": "https://biomed.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "6a8c12c5-e28e-427b-9749-f79a11a0f217",
+      "name": "TravelEase Global",
+      "industry": "Travel & Tourism",
+      "location": "Miami, FL",
+      "employee_count": 1100,
+      "founded_year": 2011,
+      "description": "Travel booking platform with AI-powered itinerary planning and hotel reservation services.",
+      "website": "https://travelease.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "bc168326-bcaf-48f1-be15-2dbf98de205a",
+      "name": "SecureBank Digital",
+      "industry": "Finance",
+      "location": "Charlotte, NC",
+      "employee_count": 1850,
+      "founded_year": 2009,
+      "description": "Digital-first banking institution offering secure online banking and cryptocurrency services.",
+      "website": "https://securebank.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "c95daea9-42b4-467b-93f0-5cd0a55911b2",
+      "name": "MediaStream Plus",
+      "industry": "Entertainment",
+      "location": "Burbank, CA",
+      "employee_count": 920,
+      "founded_year": 2013,
+      "description": "Streaming service provider delivering on-demand video content and original programming.",
+      "website": "https://mediastream.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "f82e8fe6-d57d-451d-a510-605c78cf4040",
+      "name": "AgriTech Farms",
+      "industry": "Agriculture",
+      "location": "Des Moines, IA",
+      "employee_count": 340,
+      "founded_year": 2016,
+      "description": "Agricultural technology company providing precision farming solutions and crop analytics.",
+      "website": "https://agritech.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "1c0c9101-c555-4aea-80c7-e023c085d44a",
+      "name": "SmartHome Solutions",
+      "industry": "Technology",
+      "location": "Portland, OR",
+      "employee_count": 560,
+      "founded_year": 2017,
+      "description": "IoT company specializing in smart home devices and home automation systems.",
+      "website": "https://smarthome.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "766faa99-c538-451b-b052-4894bd1212ae",
+      "name": "LogisticsExpress",
+      "industry": "Logistics",
+      "location": "Memphis, TN",
+      "employee_count": 2800,
+      "founded_year": 2007,
+      "description": "Global logistics and supply chain management company with advanced tracking systems.",
+      "website": "https://logisticsexpress.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "6313d8a1-84d4-4353-bd60-93acce9588e3",
+      "name": "FashionForward",
+      "industry": "Fashion",
+      "location": "New York, NY",
+      "employee_count": 680,
+      "founded_year": 2015,
+      "description": "Online fashion retailer with AI-powered style recommendations and sustainable clothing lines.",
+      "website": "https://fashionforward.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "2236ad0d-aae2-4df8-b2e0-9ce973f9c847",
+      "name": "SportsFit Academy",
+      "industry": "Sports & Fitness",
+      "location": "Denver, CO",
+      "employee_count": 290,
+      "founded_year": 2018,
+      "description": "Fitness technology company offering virtual training programs and wellness tracking apps.",
+      "website": "https://sportsfit.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "32394ce5-7efa-4f6e-83db-5b38a7e4632c",
+      "name": "RealEstate Pro",
+      "industry": "Real Estate",
+      "location": "Atlanta, GA",
+      "employee_count": 510,
+      "founded_year": 2010,
+      "description": "Digital real estate platform with virtual tours and AI-powered property valuation tools.",
+      "website": "https://realestatepro.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "8204a8be-0703-4be9-9ddb-ae94a292f7b6",
+      "name": "CyberShield Security",
+      "industry": "Cybersecurity",
+      "location": "Washington, DC",
+      "employee_count": 730,
+      "founded_year": 2014,
+      "description": "Cybersecurity firm providing advanced threat protection and data security solutions for enterprises.",
+      "website": "https://cybershield.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+     {
+      "id": "Abhishek 32189",
+      "name": "ITC Limited",
+      "industry": "Paperboard & Speciality Paper Division",
+      "location": "Hyderabad, TL",
+      "employee_count": 10000,
+      "founded_year": 1910,
+      "description": "ITC is one of India's leading marketer in Fast Moving Consumer Goods Business. ITC’s FMCG products are Present in Packaged Foods, Cigarettes, Personal Care Products, Education & Stationery Products, Agarbattis & Matches. ",
+      "website": "https://pspd.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    },
+    {
+      "id": "Abhishek 78945",
+      "name": "FrontLines EduTech",
+      "industry": "Edutech",
+      "location": "Hyderabad, TL",
+      "employee_count": 200,
+      "founded_year": 2021,
+      "description": "FrontLines EduTech was started as a learning center where we teach fundamentals of programming to college students.",
+      "website": "https://frontlinesedutech.example.com",
+      "created_at": "2025-10-15 18:09:13.112333+00"
+    }
+  ]
+}
