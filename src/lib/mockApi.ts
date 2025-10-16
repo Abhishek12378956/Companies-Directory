@@ -1,6 +1,13 @@
-// Mock API service that mimics Supabase client methods
-const API_BASE_URL = 'http://localhost:3001';
-
+/**
+ * Local API service using json-server for mock data
+ * Simulates a RESTful API for development and testing
+ * 
+ * In production, replace with your actual backend API endpoints
+ * @see https://github.com/typicode/json-server
+ */
+const API_BASE_URL = import.meta.env.PROD 
+  ? import.meta.env.VITE_API_BASE_URL || '/api' 
+  : 'http://localhost:3001';
 const mockApi = {
   // Get all companies
 async getCompanies(query?: any) {
