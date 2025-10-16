@@ -5,9 +5,7 @@
  * In production, replace with your actual backend API endpoints
  * @see https://github.com/typicode/json-server
  */
-const API_BASE_URL = import.meta.env.PROD 
-  ? import.meta.env.VITE_API_BASE_URL || '/api' 
-  : 'http://localhost:3001';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3001';
 const mockApi = {
   // Get all companies
 async getCompanies(query?: any) {
